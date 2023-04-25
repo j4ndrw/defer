@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  '@j4ndrw/defer':
+    specifier: ^1.0.0
+    version: 1.0.0
+
 devDependencies:
   '@types/jest':
     specifier: ^29.5.1
@@ -576,6 +581,10 @@ packages:
     resolution: {integrity: sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==}
     engines: {node: '>=8'}
     dev: true
+
+  /@j4ndrw/defer@1.0.0:
+    resolution: {integrity: sha512-LkskOGB/l0VbYKI2q8CLJhYLzdjPdpGpF14aXOCG6eoTUVY6drkZsq1QHsfD7Ph/KJZZt+7KX9dy30XgAsbyYg==}
+    dev: false
 
   /@jest/console@29.5.0:
     resolution: {integrity: sha512-NEpkObxPwyw/XxZVLPmAGKE89IQRp4puc6IQRPru6JKd1M3fW9v1xM1AnzIJE65hbCkzQAdnL8P47e9hzhiYLQ==}
