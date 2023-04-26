@@ -1,6 +1,6 @@
 {
   "name": "@j4ndrw/defer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package that allows you to defer the execution of a particular instruction at the end of the function's execution.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,8 +18,5 @@
     "tsc": "^2.0.4",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
-  },
-  "dependencies": {
-    "@j4ndrw/defer": "^1.0.0"
   }
 }
